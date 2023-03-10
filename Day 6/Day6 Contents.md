@@ -96,4 +96,3 @@ Output:
 {'name': 'Sakshi', 'age': 20, 'canVote': True}
 ```
 
-## [Next Lesson>>](https://replit.com/@codewithharry/07-Day7-Exercise-1-Create-a-Calculator)
